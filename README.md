@@ -1,16 +1,24 @@
-### Hi there 👋
+#### I'm a DevOps engineer with a student spirit!
+- 🌱 I’m currently learning golang
+- 👯 I’m looking to contribute on cool golang projects
+- 💬 Ask me about anything related to Kubernetes, Linux
+- 🥅 2021 Goals: Contribute to Kubernetes project
 
-<!--
-**Ogguz/Ogguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Connect with me:
+[<img align="left" alt="Ogguz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### My Stack:
+
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)][mystack]
+
+<img align="left" alt="Ogguz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ogguz&show_icons=true&hide_border=true&count_private=true&theme=vue" />
+
+[![Top Langs][mostusedlang]][home]
+
+[home]: https://github.com/Ogguz
+[linkedin]: https://www.linkedin.com/in/oguzkaankahraman
+[mystack]: https://stackshare.io/ogguz/my-stack
+
+[mostusedlang]: https://github-readme-stats.vercel.app/api/top-langs/?username=Ogguz&show_icons=true&hide_border=true&count_private=true&hide=javascript&layout=compact&theme=vue
