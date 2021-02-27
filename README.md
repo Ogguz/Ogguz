@@ -1,4 +1,4 @@
-#### I'm a DevOps engineer with a student spirit!
+#### I'm a DevOps engineer who is into development!
 - 🌱 I’m currently learning golang
 - 👯 I’m looking to contribute on cool golang projects
 - 💬 Ask me about anything related to Kubernetes, Linux
