@@ -1,8 +1,4 @@
 #### I'm a DevOps engineer who is into development!
-- 🌱 I’m currently learning golang
-- 👯 I’m looking to contribute on cool golang projects
-- 💬 Ask me about anything related to Kubernetes, Linux
-- 🥅 2021 Goals: Contribute to Kubernetes project
 
 ##### Connect with me:
 [<img align="left" alt="Ogguz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
